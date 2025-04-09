@@ -17,5 +17,36 @@ Projeto desenvolvido para demonstração de técnicas de classificação e clust
 ## Como Executar
 
 1. Clone o repositório:
-```bash
-git clone 
+
+git clone https://github.com/CaioSergio93/Machine-Learne-IA.git
+
+2. Instale as dependências:
+
+pip install -r requirements.txt
+
+3. Execute o aplicativo:
+
+streamlit run app.py
+
+📸 Screenshots
+![image](https://github.com/user-attachments/assets/439d72ad-2196-4286-975e-e30b3b384592)
+
+
+🤝 Como Contribuir
+Faça um Fork do projeto
+
+Crie sua Branch (git checkout -b feature/AmazingFeature)
+
+Faça o Commit das suas mudanças (git commit -m 'Add some AmazingFeature')
+
+Faça o Push para a Branch (git push origin feature/AmazingFeature)
+
+Abra um Pull Request
+
+📄 Licença
+Distribuído sob a licença MIT. Veja LICENSE para mais informações.
+
+✉️ Contato
+Caio Sérgio - caio.dev.system@gmail.com
+
+Link do Projeto: https://github.com/CaioSergio93/Machine-Learne-IA
